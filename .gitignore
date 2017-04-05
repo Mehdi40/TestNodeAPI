@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+Koa_knex/knexfile.js
+*/db.js
